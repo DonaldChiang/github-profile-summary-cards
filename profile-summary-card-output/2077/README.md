@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/DonaldChiang/github-profile-summary-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/DonaldChiang/github-profile-summary-cards/master/profile-summary-card-output/2077/3-stats.svg)
-```
-
-    
